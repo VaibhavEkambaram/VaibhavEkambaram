@@ -1,4 +1,5 @@
 ### Hello, I'm Vaibhav! 👋🙂
+<img src="https://raw.githubusercontent.com/VaibhavEkambaram/VaibhavEkambaram/master/banner.png">
 I'm a student studying Software Engineering at Victoria University in Wellington, New Zealand. I am interested in primarily desktop and mobile based programs, however I am interested in learning more about web development in the near future.
 
 Here you can find some selected personal projects I have worked on. These include:
