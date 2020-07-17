@@ -1,7 +1,4 @@
 ### Hello, I'm Vaibhav! 👋🙂
-<!--
-**VaibhavEkambaram/VaibhavEkambaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a student studying Software Engineering in Wellington, New Zealand. I am interested in primarily desktop and mobile based programs, however I am interested in learning more about web development in the near future.
 
 Here you can find some selected personal projects I have worked on. These include:
