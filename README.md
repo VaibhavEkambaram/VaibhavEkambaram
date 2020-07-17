@@ -14,3 +14,4 @@ I have been programming using various languages for some time. However, here are
 
 ## Other Interests and Hobbies
 I am also interested in the study of history and defence. I am also a semi-frequent contributer to the [OpenStreetMap Project](https://www.openstreetmap.org/user/vaibhav265).
+Finally, I have an off and on interest in photography, so you may see images that I have taken on the banner above this text or as my avatar image. :)
