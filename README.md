@@ -9,6 +9,7 @@ I hope to work on some more projects which demonstrate my programming knowledge 
 
 ## Programming Ability 
 I have been programming using various languages for some time. However, here are the languages I believe I am most confident with. 
+
 `Lua` `SQL` `Java` `C` `C++`   
 
 ## Other Interests and Hobbies
