@@ -1,5 +1,5 @@
 ### Hello, I'm Vaibhav! 👋🙂
-I'm a student studying Software Engineering in Wellington, New Zealand. I am interested in primarily desktop and mobile based programs, however I am interested in learning more about web development in the near future.
+I'm a student studying Software Engineering at Victoria University in Wellington, New Zealand. I am interested in primarily desktop and mobile based programs, however I am interested in learning more about web development in the near future.
 
 Here you can find some selected personal projects I have worked on. These include:
 * [New Zealand Birds](https://github.com/VaibhavEkambaram/New-Zealand-Birds) 🐦 - Mobile app created with the Corona SDK to read an SQL database with an easy to use menu structure, with a focus on bird life.
