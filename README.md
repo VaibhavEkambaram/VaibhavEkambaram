@@ -6,8 +6,7 @@ Here you can find some selected personal projects I have worked on. These includ
 * ♟️ [VaibhavChess](https://github.com/VaibhavEkambaram/vaibhavChess) - A chess engine I have been working on for a while. 
 * 🎲 [Farkle](https://github.com/VaibhavEkambaram/Java-Farkle) - 2 player dice game made using Java Swing
 
-I hope to work on some more projects which demonstrate my programming knowledge in the future. You may also find the occasional academic assignment here.
-
+I hope to work on some more projects which demonstrate my programming knowledge in the future.
 ## Programming Ability 
 I have been programming using various languages for some time. However, here are the languages I believe I am most confident with. 
 
