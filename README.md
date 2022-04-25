@@ -9,6 +9,7 @@
 ![Framework - React](https://img.shields.io/badge/Framework-React-lightgrey?logo=react&logoColor=white)
 ![Framework - React Native](https://img.shields.io/badge/Framework-React_Native-lightgrey?logo=Create+React+App&logoColor=white)
 ![Framework - Ionic](https://img.shields.io/badge/Framework-Ionic-lightgrey?logo=ionic&logoColor=white)
+![Cloud - Google Firebase](https://img.shields.io/badge/Cloud-Google_Firebase-lightblue?logo=firebase&logoColor=white)
 ![Tools - IntelliJ IDEA](https://img.shields.io/badge/Tools-IntelliJ_IDEA-2ea44f?logo=IntelliJ+IDEA&logoColor=white)
 ![Tools - Windows Terminal](https://img.shields.io/badge/Tools-Windows_Terminal-2ea44f?logo=Windows+Terminal&logoColor=white)
 ![Tools - Vim](https://img.shields.io/badge/Tools-Vim-2ea44f?logo=vim&logoColor=white)
