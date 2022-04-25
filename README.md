@@ -7,7 +7,6 @@
 ![Code - Javascript](https://img.shields.io/badge/Code-Javascript-orange?logo=javascript&logoColor=white)
 ![Code - Typescript](https://img.shields.io/badge/Code-Typescript-orange?logo=typescript&logoColor=white)
 ![Framework - React](https://img.shields.io/badge/Framework-React-lightgrey?logo=react&logoColor=white)
-![Framework - React Native](https://img.shields.io/badge/Framework-React_Native-lightgrey?logo=Create+React+App&logoColor=white)
 ![Framework - Ionic](https://img.shields.io/badge/Framework-Ionic-lightgrey?logo=ionic&logoColor=white)
 ![Cloud - Google Firebase](https://img.shields.io/badge/Cloud-Google_Firebase-lightblue?logo=firebase&logoColor=white)
 ![Tools - IntelliJ IDEA](https://img.shields.io/badge/Tools-IntelliJ_IDEA-2ea44f?logo=IntelliJ+IDEA&logoColor=white)
