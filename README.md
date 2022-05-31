@@ -4,7 +4,7 @@
 ![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows)
 ![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)
 ![Code - C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Code - Java](https://img.shields.io/badge/Code-Java-orange?logo=java&logoColor=white)
+![Code - Java](https://img.shields.io/badge/Code-C-orange?logo=C&logoColor=white)
 ![Code - Javascript](https://img.shields.io/badge/Code-Javascript-orange?logo=javascript&logoColor=white)
 ![Code - Typescript](https://img.shields.io/badge/Code-Typescript-orange?logo=typescript&logoColor=white)
 ![Framework - React](https://img.shields.io/badge/Framework-React-lightgrey?logo=react&logoColor=white)
