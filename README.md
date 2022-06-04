@@ -8,6 +8,7 @@
 ![Code - Java](https://img.shields.io/badge/Code-Java-orange?logo=Java&logoColor=white)
 ![Code - Javascript](https://img.shields.io/badge/Code-Javascript-orange?logo=javascript&logoColor=white)
 ![Code - Typescript](https://img.shields.io/badge/Code-Typescript-orange?logo=typescript&logoColor=white)
+![Code - Typescript](https://img.shields.io/badge/Code-Python-orange?logo=python&logoColor=white)
 ![Framework - React](https://img.shields.io/badge/Framework-React-lightgrey?logo=react&logoColor=white)
 ![Framework - Ionic](https://img.shields.io/badge/Framework-Ionic-lightgrey?logo=ionic&logoColor=white)
 ![Cloud - Google Firebase](https://img.shields.io/badge/Cloud-Google_Firebase-lightblue?logo=firebase&logoColor=white)
