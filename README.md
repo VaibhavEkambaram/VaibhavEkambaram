@@ -8,7 +8,7 @@
 ![Code - Java](https://img.shields.io/badge/Code-Java-orange?logo=Java&logoColor=white)
 ![Code - Javascript](https://img.shields.io/badge/Code-Javascript-orange?logo=javascript&logoColor=white)
 ![Code - Typescript](https://img.shields.io/badge/Code-Typescript-orange?logo=typescript&logoColor=white)
-![Code - Typescript](https://img.shields.io/badge/Code-Python-orange?logo=python&logoColor=white)
+![Code - Python](https://img.shields.io/badge/Code-Python-orange?logo=python&logoColor=white)
 ![Code - Perl](https://img.shields.io/badge/Code-Perl-orange?logo=perl&logoColor=white)
 ![Framework - React](https://img.shields.io/badge/Framework-React-lightgrey?logo=react&logoColor=white)
 ![Framework - Ionic](https://img.shields.io/badge/Framework-Ionic-lightgrey?logo=ionic&logoColor=white)
@@ -17,4 +17,3 @@
 ![Tools - Windows Terminal](https://img.shields.io/badge/Tools-Windows_Terminal-2ea44f?logo=Windows+Terminal&logoColor=white)
 ![Tools - Vim](https://img.shields.io/badge/Tools-Vim-2ea44f?logo=vim&logoColor=white)
 ![Tools - Git](https://img.shields.io/badge/Tools-Git-2ea44f?logo=git&logoColor=white)
-![Shell - Bash](https://img.shields.io/badge/Shell-Bash-pink?logo=GNU+Bash&logoColor=white)
