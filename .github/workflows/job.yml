@@ -23,7 +23,7 @@ jobs:
 
           # Options
           user: VaibhavEkambaram
-          template: classic
+          template: terminal
           base: header, activity, community, repositories
           config_timezone: Pacific/Auckland
           plugin_introduction: yes
