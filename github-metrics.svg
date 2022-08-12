@@ -50,7 +50,7 @@
   <b>   11</b> repositories starred
   <b>   12</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">vaibhavekambaram@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 17 repositories - 95.5 MB
+<div class="stdin"><span class="ps1-path">vaibhavekambaram@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 17 repositories - 95.6 MB
 -r--  <b>    6</b>  views
 -r--  <b>    0</b>  stargazers
 -r--  <b>    0</b>  forks
