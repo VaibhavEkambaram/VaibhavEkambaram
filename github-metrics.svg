@@ -47,7 +47,7 @@
 <b>Tracked activity</b>
   <b>   39</b> users followed
   <b>    0</b> repositories sponsored
-  <b>    7</b> repositories starred
+  <b>    8</b> repositories starred
   <b>   12</b> repositories watched
 </div>
 <div class="stdin"><span class="ps1-path">vaibhavekambaram@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 15 repositories - 95.2 MB
@@ -59,7 +59,7 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── GPL-3.0
 
-<span class="diff">@@ -95.6k +268k @@</span>
+<span class="diff">@@ -95.4k +229k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">vaibhavekambaram@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>HTML        </b> [########            ] 39.84%
 <b>JAVA        </b> [####                ] 17.94%
