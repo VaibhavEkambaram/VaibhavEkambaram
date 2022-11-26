@@ -51,7 +51,7 @@
   <b>   28</b> repositories watched
 </div>
 <div class="stdin"><span class="ps1-path">vaibhavekambaram@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 31 repositories - 157 MB
--r--  <b>    2</b>  views
+-r--  <b>    3</b>  views
 -r--  <b>    2</b>  stargazers
 -r--  <b>    0</b>  forks
 -r--  <b>   28</b>  watchers
@@ -59,7 +59,7 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── GPL-3.0
 
-<span class="diff">@@ -1.04m +1.60m @@</span>
+<span class="diff">@@ -2.38m +3.03m @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">vaibhavekambaram@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [#######             ] 32.07%
 <b>HTML        </b> [#######             ] 31.46%
