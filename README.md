@@ -1,17 +1,1 @@
-![OS - Windows](https://img.shields.io/badge/OS-Windows-689d6a?logo=windows)
-![OS - Linux](https://img.shields.io/badge/OS-Linux-689d6a?logo=linux&logoColor=white)
-![Code - C](https://img.shields.io/badge/Code-C-689d6a?logo=C&logoColor=white)
-![Code - C++](https://img.shields.io/badge/Code-C++-689d6a?logo=Cplusplus&logoColor=white)
-![Code - Java](https://img.shields.io/badge/Code-Java-689d6a?logo=Java&logoColor=white)
-![Code - Javascript](https://img.shields.io/badge/Code-Javascript-689d6a?logo=javascript&logoColor=white)
-![Code - Typescript](https://img.shields.io/badge/Code-Typescript-689d6a?logo=typescript&logoColor=white)
-![Code - Python](https://img.shields.io/badge/Code-Python-689d6a?logo=python&logoColor=white)
-![Code - Perl](https://img.shields.io/badge/Code-Perl-689d6a?logo=perl&logoColor=white)
-![Framework - React](https://img.shields.io/badge/Framework-React-689d6a?logo=react&logoColor=white)
-![Tools - IntelliJ IDEA](https://img.shields.io/badge/Tools-IntelliJ_IDEA-689d6a?logo=IntelliJ+IDEA&logoColor=white)
-![Tools - Windows Terminal](https://img.shields.io/badge/Tools-Windows_Terminal-689d6a?logo=Windows+Terminal&logoColor=white)
-![Tools - Vim](https://img.shields.io/badge/Tools-Vim-689d6a?logo=vim&logoColor=white)
-![Tools - Git](https://img.shields.io/badge/Tools-Git-689d6a?logo=git&logoColor=white)
-<br>
-<br>
-![Metrics](/github-metrics.svg)
+
