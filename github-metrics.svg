@@ -45,7 +45,7 @@
   <b>    3</b> issue comments
 
 <b>Tracked activity</b>
-  <b>   44</b> users followed
+  <b>   43</b> users followed
   <b>    0</b> repositories sponsored
   <b>   10</b> repositories starred
   <b>   29</b> repositories watched
@@ -59,7 +59,7 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── GPL-3.0
 
-<span class="diff">@@ -2.44m +3.07m @@</span>
+<span class="diff">@@ -2.06m +2.63m @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">vaibhavekambaram@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [#######             ] 32.39%
 <b>HTML        </b> [#######             ] 31.30%
