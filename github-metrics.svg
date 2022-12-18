@@ -59,7 +59,7 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── GPL-3.0
 
-<span class="diff">@@ -2.47m +3.13m @@</span>
+<span class="diff">@@ -2.46m +3.08m @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">vaibhavekambaram@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [#######             ] 32.92%
 <b>HTML        </b> [#######             ] 31.05%
