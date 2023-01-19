@@ -34,11 +34,11 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">vaibhavekambaram@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Vaibhav Ekambaram</b> registered=1y, uid=3112, gid=1
-  contributed to 33 repositories <b><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 33 repositories <b><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span></b>
   followed by <b>9</b> users
 </div>
 <div class="stdin"><span class="ps1-path">vaibhavekambaram@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 1523</b> commits
+  <b> 1486</b> commits
   <b>    6</b> pull requests reviewed
   <b>    6</b> pull requests opened
   <b>    2</b> issues opened
@@ -59,13 +59,13 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── GPL-3.0
 
-<span class="diff">@@ -2.51m +3.19m @@</span>
+<span class="diff">@@ -2.45m +2.98m @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">vaibhavekambaram@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [#######             ] 32.97%
-<b>HTML        </b> [#######             ] 31.10%
-<b>JAVASCRIPT  </b> [##                  ] 9.14 %
+<b>HTML        </b> [#######             ] 31.11%
+<b>JAVASCRIPT  </b> [##                  ] 9.12 %
 <b>TYPESCRIPT  </b> [##                  ] 7.85 %
-<b>C           </b> [##                  ] 6.79 %
+<b>C           </b> [##                  ] 6.80 %
 <b>LUA         </b> [#                   ] 5.00 %
 <b>TEX         </b> [#                   ] 4.87 %
 <b>CSS         </b> [#                   ] 2.28 %
