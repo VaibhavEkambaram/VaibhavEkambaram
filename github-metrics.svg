@@ -51,7 +51,7 @@
   <b>   39</b> repositories watched
 </div>
 <div class="stdin"><span class="ps1-path">vaibhavekambaram@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 34 repositories - 162 MB
--r--  <b>  111</b>  views
+-r--  <b>  103</b>  views
 -r--  <b>    4</b>  stargazers
 -r--  <b>    0</b>  forks
 -r--  <b>   31</b>  watchers
